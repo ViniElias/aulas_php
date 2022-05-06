@@ -1,2 +1,2 @@
-# aulas_php
-Códigos de PHP estudados em sala de aula.
+# livraria
+Projeto com HTML e PHP realizado em sala de aula.
